@@ -2,6 +2,9 @@
     "Aaron-Zhou": [
         "dbt-synapse-statistics"
     ],
+    "census": [
+        "dbt_census_utils"
+    ],
     "Datavault-UK": [
         "dbtvault"
     ],
